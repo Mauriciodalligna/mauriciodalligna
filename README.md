@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Maurício Dall'Igna!
 
-🎓 Estudante em formação, apaixonado por tecnologia e entusiasta em Criptomoedas, atualmente focado em desenvolver projetos pessoais enquanto concluo meus estudos.
+🎓  Estudante do último nível de Análise e Desenvolvimento de Sistemas pela Universidade de Passo Fundo (UPF), apaixonado por tecnologia e entusiasta em Criptomoedas, atualmente focado em desenvolver projetos pessoais enquanto concluo meus estudos.
 
 ---
 
