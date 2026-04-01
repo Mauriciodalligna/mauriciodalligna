@@ -9,7 +9,6 @@
 - 💡 Gosto de aprender e explorar novas tecnologias.
 - 💻 Desenvolvedor autodidata com experiência em projetos pessoais publicados aqui no GitHub.
 - 👨‍🎓 Integrante da [comunidade OneBitCode](https://onebitcode.com/), onde realizei o curso Fullstack JavaScript.
-- 💼 Em busca da primeira oportunidade profissional na área de tecnologia para adquirir experiência e evoluir ainda mais.
 
 ---
 
