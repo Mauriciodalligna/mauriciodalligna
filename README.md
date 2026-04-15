@@ -1,50 +1,64 @@
 # 👋 Olá, eu sou o Maurício Dall'Igna!
 
-🎓  Estudante do último nível de Análise e Desenvolvimento de Sistemas pela Universidade de Passo Fundo (UPF), apaixonado por tecnologia e entusiasta em Criptomoedas, atualmente focado em desenvolver projetos pessoais enquanto concluo meus estudos.
+💻 Desenvolvedor Fullstack com foco em aplicações web escaláveis, atuando no desenvolvimento de sistemas SaaS para a área da saúde.
+
+Atualmente trabalho com desenvolvimento e evolução de produto, criando novas funcionalidades, resolvendo problemas reais de usuários e contribuindo para a melhoria contínua de sistemas em produção.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💡 Gosto de aprender e explorar novas tecnologias.
-- 💻 Desenvolvedor autodidata com experiência em projetos pessoais publicados aqui no GitHub.
-- 👨‍🎓 Integrante da [comunidade OneBitCode](https://onebitcode.com/), onde realizei o curso Fullstack JavaScript.
+* 💡 Focado em construir soluções reais que geram valor para usuários e negócios
+* 🧠 Experiência prática com desenvolvimento fullstack em ambiente de produção
+* 🔧 Atuação com desenvolvimento de features, correção de bugs e suporte técnico
+* ⚙️ Familiaridade com arquitetura de sistemas e boas práticas de desenvolvimento
+* 👨‍💻 Sempre buscando evolução técnica e profissional
 
 ---
 
-## 🛠️ Skills & Tecnologias
+## 🛠️ Stack & Tecnologias
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=flat-square\&logo=laravel\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vue.js\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Gitflow](https://img.shields.io/badge/Gitflow-FF6C37?style=flat-square)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
-
-
----
-
-## 🌱 Estudando no momento
-
-Atualmente focado em aprender e aprimorar conhecimentos em:
-
-- Next.js
-- React
-- Express.js
-- TypeScript
+![Kanban](https://img.shields.io/badge/Kanban-007ACC?style=flat-square)
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🌱 Atualmente focado em
 
-- [OneBitFlix](https://github.com/Mauriciodalligna/onebitflix): Plataforma inspirada em streaming, focada em estudos e aplicação prática de tecnologias web modernas.
-- [Site de Apresentação Pessoal](https://mauriciodalligna.github.io/site_apresentacao_pessoal/index.html): Meu portfólio online, onde compartilho meus projetos, habilidades e trajetória.
+* 🧩 Arquitetura de software
+* ⚡ Performance e escalabilidade
+* 🔌 Boas práticas em APIs REST
+* 🐳 Ambientes com Docker
+* 📈 Evolução contínua em desenvolvimento backend e frontend
 
 ---
 
-Seja bem-vindo(a) ao meu perfil! 🚀
+## 🌟 Projetos em destaque
+
+* 🎬 [OneBitFlix](https://github.com/Mauriciodalligna/onebitflix)
+  Plataforma inspirada em streaming, focada na construção de aplicações web completas.
+
+* 🃏 Sistema de gerenciamento de partidas de truco
+  Aplicação fullstack com autenticação, painel administrativo e persistência de dados.
+
+* 🌐 Site de apresentação pessoal
+  Portfólio com integração backend e formulário funcional.
+
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: (adicione aqui seu link)
+
+---
+
+⭐ Seja bem-vindo ao meu perfil! Aqui você encontrará projetos focados em desenvolvimento real, aprendizado contínuo e construção de soluções completas.
+
